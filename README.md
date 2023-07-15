@@ -1,1 +1,1 @@
-# pytorch-essential
+# pytorch-essentials
